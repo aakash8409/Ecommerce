@@ -22,4 +22,4 @@ Credits:
 I would like to give credit to the Easy Tutorials YouTube channel for providing the tutorial that I used to create this website. Without their help, I would not have been able to create this project.
 ..
 
-
+![image alt](https://github.com/aakash8409/Ecommerce/blob/main/Screenshot%202025-06-24%20002640.png?raw=true)
